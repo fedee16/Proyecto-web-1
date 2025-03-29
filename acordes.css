@@ -1,0 +1,48 @@
+#acordes{
+    color: #50535A;
+    background-color: #EDD4A7;
+    
+}
+
+#opciones{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    gap: 10px;
+    padding-left: 10px;
+    
+}
+
+#opciones a{
+    width: 220px; 
+}
+
+/* #div-acorde-h1{
+    display: flex;
+    flex-direction: column;
+
+} */
+
+
+#div-acordes-h1{
+  padding-left: 300px;
+}
+.div-acorde{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-bottom: 30px;
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+.div-acorde p{
+    padding-left: 87px;
+    
+}
+
+.div-acorde img{
+    border-radius: 20%;
+    width: 700px;
+}

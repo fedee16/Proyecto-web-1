@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Averia+Gruesa+Libre&display=swap');
+
+*{
+    background-color: #31323A;
+    color: white;
+    font-family: 'Averia Gruesa Libre', cursive;
+}
+
+
+header{
+    text-align: center;
+}
+
+
+nav{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 90px;
+}
+a{
+    font-size: 23px;
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px 20px;
+    background-color: #50535A;
+    color: white;
+    border-radius: 55px;
+    border: none;
+    text-align: center;
+    width: 160px; 
+    box-sizing: border-box;
+}
+
+.buscador {
+    margin-bottom: 500px !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 10px;
+}

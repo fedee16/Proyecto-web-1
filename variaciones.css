@@ -1,0 +1,18 @@
+#variaciones{
+    color: #50535A;
+    background-color: #EDD4A7;
+}
+
+.div-variaciones{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-bottom: 30px;
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+.div-variaciones img{
+    border-radius: 10%;
+    width: 190px;
+}
